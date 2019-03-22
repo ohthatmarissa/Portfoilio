@@ -17,6 +17,14 @@ p {
   color: white;
 }
 
+ol {
+  color: white;
+}
+
+.special {
+  color: #ccffcc
+}
+
 .col-m-4 {
   color: white;
 }
