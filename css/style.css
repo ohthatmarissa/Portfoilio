@@ -29,6 +29,24 @@ ol {
   color: white;
 }
 
+#shelter {
+  border: 4px;
+  padding: 4px;
+  float: left;
+}
+
+#cupcake {
+  border: 4px;
+  padding: 4px;
+  float: left;
+}
+
+#britney {
+  border: 4px;
+  padding: 4px;
+  float: right;
+}
+
 .page-header {
   color: #ffcccc;
 }
