@@ -30,21 +30,24 @@ ol {
 }
 
 #shelter {
-  border: 4px;
+  margin: 3px;
+  border: 4px solid white;
   padding: 4px;
   float: left;
 }
 
 #cupcake {
-  border: 4px;
+  margin: 3px;
+  border: 4px solid white;
   padding: 4px;
   float: left;
 }
 
 #britney {
-  border: 4px;
+  margin: 3px;
+  border: 4px solid white;
   padding: 4px;
-  float: right;
+  float: left;
 }
 
 .page-header {
